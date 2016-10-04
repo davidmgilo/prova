@@ -1,0 +1,8 @@
+{
+    "name": "davidmgilo/helloworlddd",
+    "autoload": {
+        "psr-4": {
+            "Davidmgilo\\Helloworlddd\\": "src/"
+        }
+    }
+}
